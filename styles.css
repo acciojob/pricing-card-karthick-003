@@ -8,10 +8,13 @@
 	width:300px;
 	margin-left: 200px;
 }
-.text{
-	padding:10px;
+
+.main img{
+	height:200px; 
+	width: 150px;
 }
 .btn{
+	font-style:Arial;
 	background-color:orange;
 	color:white;
 	padding:10px;
